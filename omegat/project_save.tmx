@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230323T222423Z" creationid="SvK" creationdate="20230323T222423Z">
+        <seg>&amp;Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230323T222446Z" creationid="SvK" creationdate="20230323T222446Z">
+        <seg>&amp;Szukaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230323T222035Z" creationid="SvK" creationdate="20230323T222035Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230323T222434Z" creationid="SvK" creationdate="20230323T222434Z">
+        <seg>Za&amp;stąp wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230323T222439Z" creationid="SvK" creationdate="20230323T222439Z">
+        <seg>Wybierz</seg>
       </tuv>
     </tu>
     <tu>
