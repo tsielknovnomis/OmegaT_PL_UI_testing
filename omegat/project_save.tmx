@@ -2184,8 +2184,8 @@
       <tuv lang="en-US">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230303T095035Z" creationid="d55" creationdate="20230303T095035Z">
-        <seg>Włącz podpowiadanie &amp;historii</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230331T083654Z" creationid="d55" creationdate="20230303T095035Z">
+        <seg>Włącz &amp;podpowiadanie kolejnego słowa</seg>
       </tuv>
     </tu>
     <tu>
