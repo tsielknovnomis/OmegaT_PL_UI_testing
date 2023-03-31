@@ -288,8 +288,8 @@
       <tuv lang="en-US">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230303T095024Z" creationid="d55" creationdate="20230303T095024Z">
-        <seg>&amp;Włącz podpowiadanie historii</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230331T083311Z" creationid="d55" creationdate="20230303T095024Z">
+        <seg>&amp;Włącz uzupełnianie słowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,6 +2890,12 @@
       </tuv>
       <tuv lang="pl-PL">
         <seg>Uzupełnianie słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Wo taucht das auf?</note>
+      <tuv lang="en-US">
+        <seg>History Completions</seg>
       </tuv>
     </tu>
     <tu>
