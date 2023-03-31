@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="Xbench"
+    creationtoolversion="2.8.0"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="EN-US"
+    srclang="EN-GB"
+    o-tmf="XbenchTM"
+  >
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Popraw znaczniki podczas opuszczania segmentu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Zapisywalny glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="EN-GB">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Zastępuj trafienia w &amp;glosariuszu podczas wprowadzania tekstu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="EN-GB">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="EN-GB">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Wybierz, jak mają być wyświetlane znaczniki z pliku TMX (nieutworzonego w OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="EN-GB">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Nieznany typ wtyczki '{0}' w '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="EN-GB">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Użyj &amp;dopasowań rozmytych dla haseł słownikowych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Dopasuj pliki…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Weryfikacja językowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Preferencje...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Projekt</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Resetuj ten kolor</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Cofnij zmiany</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="EN-GB">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Agresywne &amp;przywracanie czcionki</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="EN-GB">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Sprawdź &amp;problemy...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="EN-GB">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Sprawdź problemy w &amp;bieżącym dokumencie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="EN-GB">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Układ glosariusza:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="EN-GB">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Zaznacz segmenty uzupełnione &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="EN-GB">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Zaznacz &amp;znaki kontrolne algorytmu dwukierunkowego</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="EN-GB">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Zaznacz granice &amp;akapitów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="EN-GB">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Scalaj alternatywne definicje tego samego terminu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="EN-GB">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Przywróć &amp;domyślne</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="EN-GB">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Wybierz domenę wyszukiwania terminologii TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="EN-GB">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Otwórz folder konfigura&amp;cji</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="EN-GB">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Autouzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="EN-GB">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Uzupełnianie słowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="EN-GB">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Podpowiadanie kolejnego słowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Dodaj…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="EN-GB">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Folder plików słownika:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="EN-GB">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Folder plików słownika</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="EN-GB">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Kodowanie pliku źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="EN-GB">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Kodowanie pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="EN-GB">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Wzór nazwy pliku źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="EN-GB">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="EN-GB">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Całkowita liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="EN-GB">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="EN-GB">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="EN-GB">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="EN-GB">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Kodowanie pliku docelowego:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="EN-GB">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Kodowanie pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="EN-GB">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="EN-GB">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>+{0} więcej</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="EN-GB">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="EN-GB">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>&amp;Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="EN-GB">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Weryfikacja językowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="EN-GB">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="EN-GB">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv xml:lang="PL-PL">
+        <seg>Błąd przy zapisywaniu ustawień segmentacji:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

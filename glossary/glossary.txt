@@ -1,0 +1,4 @@
+unique segment	segment unikalny	
+unique segments	segmenty unikalne	
+control character	znak kontrolny	
+control characters	znaki kontrolne	
