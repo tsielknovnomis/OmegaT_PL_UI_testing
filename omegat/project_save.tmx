@@ -3180,6 +3180,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T082209Z" creationid="akossek" creationdate="20230414T082209Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T082133Z" creationid="akossek" creationdate="20230414T082133Z">
+        <seg>Znacznik od lewej do prawej (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4408,6 +4424,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Przywróć do&amp;myślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T082220Z" creationid="akossek" creationdate="20230414T082220Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T082140Z" creationid="akossek" creationdate="20230414T082140Z">
+        <seg>Znacznik od prawej do lewej (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
