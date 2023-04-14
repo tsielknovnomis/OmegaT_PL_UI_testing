@@ -488,8 +488,8 @@
       <tuv lang="en-US">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Statystyki dopasowań</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230414T082034Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki &amp;dopasowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,8 +3350,8 @@
       <tuv lang="en-US">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Statystyki dopasowań dla &amp;pliku</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230414T082105Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki dopasowań dla p&amp;liku</seg>
       </tuv>
     </tu>
     <tu>
