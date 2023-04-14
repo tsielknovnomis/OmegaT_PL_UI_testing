@@ -152,8 +152,8 @@
       <tuv lang="en-US">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Wstecz w historii</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230414T085648Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wste&amp;cz w historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="en-US">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Poprzedni segment</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230414T085538Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pop&amp;rzedni segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="en-US">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Numer segmentu...</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230414T085454Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>N&amp;umer segmentu...</seg>
       </tuv>
     </tu>
     <tu>
