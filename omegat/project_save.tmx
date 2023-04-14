@@ -424,8 +424,8 @@
       <tuv lang="en-US">
         <seg>&amp;Language Checker</seg>
       </tuv>
-      <tuv lang="pl-PL">
-        <seg>&amp;Weryfikacja językowa</seg>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T085014Z">
+        <seg>Wery&amp;fikacja językowa</seg>
       </tuv>
     </tu>
     <tu>
