@@ -1168,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T082410Z">
-        <seg>&amp;Agresywne przywracanie czcionki</seg>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T084745Z">
+        <seg>Agresywne przywracanie &amp;czcionki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,8 +3278,8 @@
       <tuv lang="en-US">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T082448Z">
-        <seg>Zaznacz segmenty uzupełnione&amp; automatycznie</seg>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T084632Z">
+        <seg>Zaznacz segmenty uzupełnion&amp;e automatycznie</seg>
       </tuv>
     </tu>
     <tu>
