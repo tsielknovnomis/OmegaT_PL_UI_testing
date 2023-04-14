@@ -2096,8 +2096,8 @@
       <tuv lang="en-US">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>E&amp;ksportuj zaznaczenie</seg>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081310Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Eksportuj zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,8 +2998,8 @@
       <tuv lang="en-US">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wprowadź brakujący znacznik &amp;źródłowy</seg>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081408Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wprowadź brakujące znaczniki &amp;źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,8 +4158,8 @@
       <tuv lang="en-US">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Z&amp;astąp dopasowaniem lub zaznaczeniem</seg>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081208Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zastąp dopasowaniem lub zaznaczeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,8 +4174,8 @@
       <tuv lang="en-US">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Z&amp;astąp tekstem źródłowym</seg>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081302Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastą&amp;p tekstem źródłowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,8 +4358,8 @@
       <tuv lang="en-US">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zamień używając &amp;tłumaczenia maszynowego</seg>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081224Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zamień używając tłumaczenia &amp;maszynowego</seg>
       </tuv>
     </tu>
     <tu>
