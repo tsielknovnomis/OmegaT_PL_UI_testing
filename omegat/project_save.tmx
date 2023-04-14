@@ -3756,6 +3756,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T080238Z" creationid="magdalenasek" creationdate="20230414T080238Z">
+        <seg>Hello :)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
