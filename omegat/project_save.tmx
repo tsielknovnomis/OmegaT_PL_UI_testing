@@ -424,8 +424,8 @@
       <tuv lang="en-US">
         <seg>&amp;Language Checker</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T085014Z">
-        <seg>Wery&amp;fikacja językowa</seg>
+      <tuv lang="pl-PL">
+        <seg>&amp;Weryfikacja językowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T084745Z">
-        <seg>Agresywne przywracanie &amp;czcionki</seg>
+      <tuv lang="pl-PL">
+        <seg>Agresywne &amp;przywracanie czcionki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,7 +1512,7 @@
       <tuv lang="en-US">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230414T090137Z">
+      <tuv lang="pl-PL">
         <seg>Sprawdź &amp;problemy...</seg>
       </tuv>
     </tu>
@@ -2096,7 +2096,7 @@
       <tuv lang="en-US">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081310Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230421T081053Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Eksportuj zaznaczenie</seg>
       </tuv>
     </tu>
@@ -3278,8 +3278,8 @@
       <tuv lang="en-US">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230414T084632Z">
-        <seg>Zaznacz segmenty uzupełnion&amp;e automatycznie</seg>
+      <tuv lang="pl-PL">
+        <seg>Zaznacz segmenty uzupełnione &amp;automatycznie</seg>
       </tuv>
     </tu>
     <tu>
