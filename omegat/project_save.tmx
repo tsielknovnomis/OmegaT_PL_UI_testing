@@ -70,14 +70,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&amp;Also allow per-project external commands</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Also allow per-project external commands</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -354,14 +346,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230414T090411Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>P&amp;omoc</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,22 +1010,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&lt;PUSTE&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,14 +1858,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Folder plików słownika nie istnieje!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Displa&amp;y source terms</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Display source terms</seg>
       </tuv>
     </tu>
     <tu>
@@ -2947,14 +2907,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>W źr&amp;ódle</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,14 +4007,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Preserve spaces &amp;for all tags</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Preserve spaces for all tags</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4199,14 +4143,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Refreshing script folder "{0}"</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Refreshing script directory "{0}"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4255,26 +4191,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Remove &amp;leading and trailing tags</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Remove leading and trailing tags</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Usuń zn&amp;aczniki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
     </tu>
     <tu>
@@ -4375,14 +4295,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Resolve Conflicts</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Conflicts resolving</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230310T091719Z" creationid="d55" creationdate="20230310T091719Z">
@@ -4475,14 +4387,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Zapisz skrypt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Save aut&amp;o-populated status</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Save auto-populated status</seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,22 +4655,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Show &amp;longer target terms first</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Show longer target terms first</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Show &amp;source term first</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Show source term first</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4775,50 +4663,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Simplify &amp;tooltips on protected parts</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Simplify tooltips on protected parts</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Rozmiar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sort &amp;alphabetically</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Sort alphabetically</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sort by &amp;full text, not shortcut</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Sort by full text, not shortcut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sort by len&amp;gth</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Sort by length</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sort by source term &amp;alphabetically</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Sort by source term alphabetically</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,14 +4811,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Hiszpański</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Specify tag handling behaviour</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Specify tag handling behaviour </seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,14 +5539,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Ustal jako domyślne tłumaczenie</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Use custom templates for modification &amp;info</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Use custom templates for modification info</seg>
       </tuv>
     </tu>
     <tu>
