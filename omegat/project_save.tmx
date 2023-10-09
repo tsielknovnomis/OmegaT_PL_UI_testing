@@ -936,8 +936,8 @@
       <tuv lang="en-US">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="pl-PL">
-        <seg>Popraw znaczniki podczas opuszczania segmentu</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T213907Z">
+        <seg>&amp;Popraw znaczniki podczas opuszczania segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zezwól na edycję znaczników</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T213855Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zezwól na &amp;edycję znaczników</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,14 +5659,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230310T092229Z" creationid="d55" creationdate="20230310T092229Z">
         <seg>Musisz uaktualnić swoje JDK 1.6 do najnowszej wersji albo po prostu usunąć pliki jaxb-*.jar z OmegaT /lib dir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[Fuzzy]</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T092353Z" creationid="d55" creationdate="20230310T092353Z">
-        <seg>[Rozmyte]</seg>
       </tuv>
     </tu>
     <tu>
