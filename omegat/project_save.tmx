@@ -2792,8 +2792,8 @@
       <tuv lang="en-US">
         <seg>Glossary note</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T101248Z" creationid="d55" creationdate="20230310T101248Z">
-        <seg>Glosariusz - noatatka</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231006T170402Z" creationid="d55" creationdate="20230310T101248Z">
+        <seg>Glosariusz - notatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,8 +3230,8 @@
       <tuv lang="en-US">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wczytywanie projektu..</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231006T171835Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,8 +3942,8 @@
       <tuv lang="en-US">
         <seg>Paragraph delimitation</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T101008Z" creationid="d55" creationdate="20230310T101008Z">
-        <seg>Usunięcie paragrafu</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231006T170518Z" creationid="d55" creationdate="20230310T101008Z">
+        <seg>Granica akapitu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,22 +4536,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230310T092645Z" creationid="d55" creationdate="20230310T092636Z">
         <seg>Szukaj słowników</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Search Found Mark</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T094851Z" creationid="d55" creationdate="20230310T094851Z">
-        <seg>Znaleziono</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Search Replaced Mark</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T094858Z" creationid="d55" creationdate="20230310T094858Z">
-        <seg>Zamieniono</seg>
       </tuv>
     </tu>
     <tu>
