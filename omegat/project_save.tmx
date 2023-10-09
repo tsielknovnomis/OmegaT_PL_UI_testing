@@ -4540,6 +4540,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T203728Z" creationid="SvK" creationdate="20231009T203717Z">
+        <seg>Znaki znalezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T203913Z" creationid="SvK" creationdate="20231009T203725Z">
+        <seg>Znaki zastąpione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
