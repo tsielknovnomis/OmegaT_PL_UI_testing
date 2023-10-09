@@ -1072,8 +1072,8 @@
       <tuv lang="en-US">
         <seg>Active segment source text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Aktywny segment (źródło) - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211910Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (źródło) – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="en-US">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Aktywny segment (tłumaczenie) - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211911Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (tłumaczenie) – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,32 +1136,32 @@
       <tuv lang="en-US">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T095233Z" creationid="d55" creationdate="20230310T095233Z">
-        <seg>Dopasowanie - grupa "zaakceptowana"</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211805Z" creationid="d55" creationdate="20230310T095233Z">
+        <seg>Dopasowanie – grupa "zaakceptowana"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T095328Z" creationid="d55" creationdate="20230310T095328Z">
-        <seg>Dopasowanie - grupa "do przeglądu"</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211805Z" creationid="d55" creationdate="20230310T095328Z">
+        <seg>Dopasowanie – grupa "do przeglądu"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T095632Z" creationid="d55" creationdate="20230310T095632Z">
-        <seg>Dopasowanie - zaznaczenie</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211805Z" creationid="d55" creationdate="20230310T095632Z">
+        <seg>Dopasowanie – zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T100024Z" creationid="d55" creationdate="20230310T100024Z">
-        <seg>Dopasowanie - zaznaczenie wiersza tabeli</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211805Z" creationid="d55" creationdate="20230310T100024Z">
+        <seg>Dopasowanie – zaznaczenie wiersza tabeli</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,8 +2104,8 @@
       <tuv lang="en-US">
         <seg>Editor - {0}</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Edytor - {0}</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211908Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Edytor – {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,8 +2384,8 @@
       <tuv lang="en-US">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wystąpił błąd krytyczny - projekt został zapisany w pliku kopii zapasowej z rozszerzeniem ".recover".</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211906Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wystąpił błąd krytyczny – projekt został zapisany w pliku kopii zapasowej z rozszerzeniem ".recover".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,8 +2584,8 @@
       <tuv lang="en-US">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T100958Z" creationid="d55" creationdate="20230310T100958Z">
-        <seg>Z pamięci - 100%</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211930Z" creationid="d55" creationdate="20230310T100958Z">
+        <seg>Z pamięci – 100%</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,24 +2728,24 @@
       <tuv lang="en-US">
         <seg>Glossary note</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20231006T170402Z" creationid="d55" creationdate="20230310T101248Z">
-        <seg>Glosariusz - notatka</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101248Z">
+        <seg>Glosariusz – notatka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Glossary source</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T101229Z" creationid="d55" creationdate="20230310T101229Z">
-        <seg>Glosariusz - źródło</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101229Z">
+        <seg>Glosariusz – źródło</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Glossary translation</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T101238Z" creationid="d55" creationdate="20230310T101238Z">
-        <seg>Glosariusz - tłumaczenie</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101238Z">
+        <seg>Glosariusz – tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3425,8 +3425,8 @@
       <tuv lang="en-US">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Informacje o modyfikacji - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211928Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Informacje o modyfikacji – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,8 +3625,8 @@
       <tuv lang="en-US">
         <seg>Non-unique segments background</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Nieunikalny segment - tło</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211927Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Nieunikalny segment – tło</seg>
       </tuv>
     </tu>
     <tu>
@@ -3993,8 +3993,8 @@
       <tuv lang="en-US">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230331T090808Z" creationid="magdalenasek" creationdate="20230331T090808Z">
-        <seg>Preferencje - {0}</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211934Z" creationid="magdalenasek" creationdate="20230331T090808Z">
+        <seg>Preferencje – {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,16 +4473,16 @@
       <tuv lang="en-US">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Znacznik segmentu - tło</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211914Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Znacznik segmentu – tło</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Segment marker text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Znacznik segmentu - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211913Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Znacznik segmentu – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,8 +4529,8 @@
       <tuv lang="en-US">
         <seg>Segments with notes text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Segment z notatkami - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211918Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment z notatkami – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,8 +4785,8 @@
       <tuv lang="en-US">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Segment (źródło) - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211920Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment (źródło) – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,8 +5193,8 @@
       <tuv lang="en-US">
         <seg>Translated segments text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Przetłumaczony segment - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211925Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Przetłumaczony segment – tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,8 +5481,8 @@
       <tuv lang="en-US">
         <seg>Untranslated segments text</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Nieprzetłumaczony segment - tekst</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211924Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Nieprzetłumaczony segment – tekst</seg>
       </tuv>
     </tu>
     <tu>
