@@ -232,8 +232,8 @@
       <tuv lang="en-US">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230414T081846Z" creationid="d55" creationdate="20230310T094122Z">
-        <seg>Zmieniaj &amp;cyklicznie</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T210230Z" creationid="d55" creationdate="20230310T094122Z">
+        <seg>&amp;Kolejna opcja</seg>
       </tuv>
     </tu>
     <tu>
