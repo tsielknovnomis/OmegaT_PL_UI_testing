@@ -64,8 +64,8 @@
       <tuv lang="en-US">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zezwól aby tłumaczenie było t&amp;akie samo jak źródło</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211643Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zezwól, aby tłumaczenie było t&amp;akie samo jak źródło</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Użyj tej czcionki w tabelkach (pliki projektu, statystyki, itp.)</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211554Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Użyj tej czcionki w tabelkach (pliki projektu, statystyki itp.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,8 +1928,8 @@
       <tuv lang="en-US">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>To okno wyświetla komentarze do aktywnego segmentu jeżeli takie istnieją oraz są wspierane przez filtr plików (np. filtr-PO).</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211609Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>To okno wyświetla komentarze do aktywnego segmentu, jeżeli takie istnieją oraz są wspierane przez filtr plików (np. filtr-PO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="en-US">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Napotkano niedozwolony ciąg  \u</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211537Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Napotkano niedozwolony ciąg \u</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2392,8 @@
       <tuv lang="en-US">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1} :</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211630Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5449,8 +5449,8 @@
       <tuv lang="en-US">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Nieobsługiwana wersja XML  {0}!</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211525Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieobsługiwana wersja XML {0}!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5585,8 +5585,8 @@
       <tuv lang="en-US">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1} :</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T211625Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
       </tuv>
     </tu>
     <tu>
