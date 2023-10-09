@@ -2897,6 +2897,9 @@
       <tuv lang="en-US">
         <seg>History Completions</seg>
       </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T204557Z">
+        <seg>Uzupełniane słowa</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
@@ -2904,6 +2907,14 @@
       </tuv>
       <tuv lang="pl-PL">
         <seg>Podpowiadanie kolejnego słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T205154Z" creationid="SvK" creationdate="20231009T205154Z">
+        <seg>Podpowiadane słowa</seg>
       </tuv>
     </tu>
     <tu>
