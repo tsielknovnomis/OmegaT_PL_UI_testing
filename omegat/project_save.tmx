@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&amp;Allow only unique characters</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Allow only unique characters</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1406,14 +1398,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>C&amp;lear</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Clear</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1810,14 +1794,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wybór kolorów niestandardowych</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Customize character &amp;table</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Customize character table</seg>
       </tuv>
     </tu>
     <tu>
@@ -4791,14 +4767,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Show &amp;target term first</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Show target term first</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4859,14 +4827,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Sortuj dopasowania rozmyte:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sort tar&amp;get terms alphabetically</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Sort target terms alphabetically</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,14 +5147,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Filtr PO wyrzucił wyjątek:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
     </tu>
     <tu>
