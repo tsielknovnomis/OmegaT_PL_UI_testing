@@ -4929,8 +4929,8 @@
       <tuv lang="en-US">
         <seg>Source count</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230310T093733Z" creationid="d55" creationdate="20230310T093733Z">
-        <seg>Liczba źródeł</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20231009T210420Z" creationid="d55" creationdate="20230310T093733Z">
+        <seg>Liczba obiektów źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,14 +5915,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>{0} +{1} więcej</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230303T094513Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>{0} toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
